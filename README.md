@@ -1,4 +1,4 @@
-2014-geocamp
+2016-geocamp
 ============
 
-Web del geocamp 2014
+Web del geocamp 2016

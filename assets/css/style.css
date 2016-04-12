@@ -203,7 +203,7 @@ nav a:focus { color: #fff; }
 	font-weight: 300;
 }
 
-.coming-soon p.top-arrow i:before, 
+.coming-soon p.top-arrow i:before,
 .coming-soon p.top-arrow i:after {
 	-o-transition: all .3s;
     -moz-transition: all .3s;
@@ -301,8 +301,9 @@ nav a:focus { color: #fff; }
 .about-box-1 h4 {
 	padding: 10px 0;
 	font-size: 30px;
-    font-weight: 100;
+    font-weight: 300;
     line-height: 34px;
+    color: #ffffff;
 }
 
 .about-box-1 p {
@@ -495,8 +496,8 @@ nav a:focus { color: #fff; }
 	opacity: 1;
 }
 
-.whos-behind-box-1 .whos-behind-photo .whos-behind-social, 
-.whos-behind-box-1 .whos-behind-photo .whos-behind-social a, 
+.whos-behind-box-1 .whos-behind-photo .whos-behind-social,
+.whos-behind-box-1 .whos-behind-photo .whos-behind-social a,
 .whos-behind-box-1 .whos-behind-photo .whos-behind-social a:hover {
 	font-size: 18px;
 	color: #fff;
@@ -513,7 +514,7 @@ nav a:focus { color: #fff; }
     height: 500px;
     margin-bottom: 400px;
     /*padding-bottom: 80px;*/
-	/*background-color:*/ 
+	/*background-color:*/
 }
 
 .logos-patrocinadores {
@@ -521,7 +522,7 @@ nav a:focus { color: #fff; }
 }
 
 /** Organizadores **/
-	
+
 .organizadores-container {
 	text-align: center;
     height: 500px;
@@ -624,12 +625,12 @@ nav a:focus { color: #fff; }
     line-height: 36px;
 }
 
-.contact-form, 
+.contact-form,
 .contact-address {
 	padding-bottom: 80px;
 }
 
-.contact-form h4, 
+.contact-form h4,
 .contact-address h4 {
 	padding: 0 0 10px 0;
 	font-size: 30px;
@@ -649,7 +650,7 @@ nav a:focus { color: #fff; }
 	margin: 15px 0 0 0;
 }
 
-.contact-form form input, 
+.contact-form form input,
 .contact-form form textarea {
     width: 90%;
     height: 50px;

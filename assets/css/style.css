@@ -511,15 +511,14 @@ nav a:focus { color: #fff; }
 /** Patrocinadores **/
 .patrocinadores-container {
 	text-align: center;
-    height: 500px;
-    margin-bottom: 400px;
-    /*padding-bottom: 80px;*/
+    /*height: 500px;*/
+    /*margin-bottom: 400px;*/
+    padding-bottom: 80px;
 	/*background-color:*/
 }
 
 .logos-patrocinadores {
     margin-top: 20px;
-    display:table;
 }
 
 .logos-patrocinadores div.span4{
@@ -540,7 +539,8 @@ nav a:focus { color: #fff; }
 
 .organizadores-container {
 	text-align: center;
-    height: 500px;
+  padding-bottom: 80px;
+  /*  height: 500px;*/
 }
 
 .registro-container{
@@ -558,6 +558,16 @@ nav a:focus { color: #fff; }
 
 .mapa-container iframe {
 	height: 600px;
+}
+
+@media (max-width: 600px) {
+  .mapa-container {
+    height: 400px;
+  }
+
+	.mapa-container iframe {
+		height: 400px;
+	}
 }
 
 .map {
@@ -721,10 +731,4 @@ footer {
 
 .footer-social {
 	text-align: right;
-}
-
-@media (max-width: 600px) {
-	.mapa-container iframe {
-		height: 400px;
-	}
 }

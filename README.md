@@ -1,4 +1,2 @@
-2016-geocamp
-============
+# Repo movido a https://github.com/geocamp-es/2016
 
-Web del geocamp 2016
